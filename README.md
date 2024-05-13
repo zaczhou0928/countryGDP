@@ -1,4 +1,4 @@
-###Documentation
+### Documentation
 
 We are interested in innovative ways of representing countries’ GDP data over the years with visualization tools we have learned in class. Together we have decided to focus on the visualizations for the GDP data of German, Japan, and Italia. Therefore, we inquired about the annual GDP of these three countries from 2000 to 2022. We decided to choose the data for the three countries because these are the countries each one of us liked and wanted to explore the most.
 
